@@ -15,6 +15,7 @@ public class Account {
      * A username for this Account (must be unique and not blank)
      */
     public String username;
+    
     /**
      * A password for this account (must be over 4 characters)
      */
